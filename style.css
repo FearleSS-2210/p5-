@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+}
+hr {
+    border-color: turquoise;
+}
+h1 {
+    margin-top: 35px;
+    color: tomato;
+}
+button {
+    background-color: black;
+    border: tomato;
+    border-style: solid;
+    border-radius: 75px;
+    border-width: 4px;
+}
+input {
+    color: black;
+}
+canvas {
+    padding: 5px;
+}
